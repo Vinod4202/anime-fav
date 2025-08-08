@@ -14,6 +14,6 @@ An elegant and responsive anime browsing website built with **React** . View pop
 
 ## 🖼️ Demo
 
-[Live Demo](https://your-deployed-site-link.com)  
+[Live Demo](ani-fav.netlify.app)  
 
 ---
